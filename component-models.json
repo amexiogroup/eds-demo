@@ -28,14 +28,14 @@
       },
       {
         "component": "reference",
-        "name": "og:image",
+        "name": "ogImage",
         "label": "OG Image",
         "valueType": "string",
         "multi": false
       },
       {
         "component": "text",
-        "name": "og:image:alt",
+        "name": "ogImageAlt",
         "label": "OG Image Alt Text",
         "valueType": "string"
       },
