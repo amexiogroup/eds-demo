@@ -1,42 +1,10 @@
 [
   {
-    "id": "main",
-    "components": [
-      "section"
-    ]
-  },
-  {
-    "id": "section",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title",
-      "hero",
-      "cards",
-      "columns",
-      "fragment"
-    ]
+    "id": "conversation-starters",
+    "components": ["conversation-starters-item"]
   },
   {
     "id": "cards",
-    "components": [
-      "card"
-    ]
-  },
-  {
-    "id": "columns",
-    "components": [
-      "column"
-    ]
-  },
-  {
-    "id": "column",
-    "components": [
-      "text",
-      "image",
-      "button",
-      "title"
-    ]
+    "components": ["cards-item"]
   }
 ]
