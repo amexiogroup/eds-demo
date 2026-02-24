@@ -169,8 +169,8 @@
     "fields": [
       {
         "component": "text",
-        "name": "sectionTitle",
-        "label": "Section Title (e.g. Inspiratie)",
+        "name": "heading",
+        "label": "Section Heading (e.g. Inspiratie)",
         "valueType": "string"
       }
     ]
